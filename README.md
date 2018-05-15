@@ -2,7 +2,7 @@ Electrum-reden-server for the Electrum Reden client
 =========================================
 
   * Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
-  * Reden codebase port Authors: ELM4Ever, Propulsion
+  * Reden codebase port Authors: ELM4Ever, Propulsion, tri nguyen
   * Language: Python
 
 Features
