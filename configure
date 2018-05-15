@@ -92,7 +92,7 @@ if [ ! -d $path ]; then
     echo
     if [[ $REPLY =~ ^[Yy]$ ]]; then
 	mkdir -p $path
-	wget -O - "http://foundry.electrum.org/leveldb-dump/electrum-fulltree-100-latest.tar.gz" | tar --extract --gunzip --strip-components 1 --directory $path --file -
+	wget -O - "https://jdubya.info/electrum/ElectrumX/ElectrumX_1.4.3_RocksDB_2018-04-15.tgz" | tar --extract --gunzip --strip-components 1 --directory $path --file -
     fi
 fi
 

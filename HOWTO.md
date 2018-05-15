@@ -145,7 +145,7 @@ find out the best way to do this.
 We will download the latest git snapshot for Electrum to configure and install it:
 
     $ cd ~
-    $ git clone https://github.com/redenpay/electrum-reden-server.git
+    $ git clone https://github.com/RedenCore/electrum-reden-server.git
     $ cd electrum-reden-server
     $ sudo apt-get install python-setuptools
     $ sudo ./configure
